@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kamilzadkozlowski2pr Kontrolka PasswordText</string>
+    <string name="password_strength_weak">Słabe</string>
+    <string name="password_strength_medium">Średnie</string>
+    <string name="password_strength_strong">Mocne</string>
+    <string name="password_strength_very_strong">Potężne</string>
+</resources>
